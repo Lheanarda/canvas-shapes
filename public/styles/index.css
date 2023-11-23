@@ -1,0 +1,11 @@
+body{
+    overflow: hidden;
+}
+
+canvas{
+    /* background: linear-gradient(120deg,#4a3933, #e6d5b8); */
+    background-color: black;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
